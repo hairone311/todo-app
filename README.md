@@ -1,5 +1,3 @@
 # todo
 
-A new Flutter project.
-
-## Getting Started
+Aplicação TODO simples feita em DART e FLUTTER
